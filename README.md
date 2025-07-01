@@ -10,7 +10,7 @@ I'm a **Materials Technologist** actively transitioning into **Software Developm
 - **Currently Learning:** Python, Django
 
 ### 🔨 Projects
-- **[Movie Database App](#)** – A responsive React app using the TMDb API *()*
+- **[Movie Database App](#)** – A responsive React app using the TMDb API *(https://movie-database-app-omega.vercel.app/)*
   
 
 ### 📫 Let’s Connect
