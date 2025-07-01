@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Austine Juma
 
-<!--
-**AustineJ101/AustineJ101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Materials Technologist** actively transitioning into **Software Development**, blending my background in civil engineering with a passion for building web applications.
 
-Here are some ideas to get you started:
+💡 I recently completed ALX’s Frontend Web Development program and I'm currently diving into backend technologies to become a full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Tools:** Git, GitHub, VS Code, REST APIs
+- **Currently Learning:** Python, Django
+
+### 🔨 Projects
+- **[Movie Database App](#)** – A responsive React app using the TMDb API *()*
+  
+
+### 📫 Let’s Connect
+- **Email:** austinejumah001@gmail.com  
+- **LinkedIn:** [linkedin.com/in/austinejuma](https://linkedin.com/in/austine-juma01)
+
+---
+
+“**Engineer by training, developer by passion.**”  
