@@ -2,12 +2,9 @@
 
 I'm a **Materials Technologist** actively transitioning into **Software Development**, blending my background in civil engineering with a passion for building web applications.
 
-💡 I recently completed ALX’s Frontend Web Development program and I'm currently diving into backend technologies to become a full-stack developer.
-
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Tools:** Git, GitHub, VS Code, REST APIs
-- **Currently Learning:** Python, Django
 
 ### 🔨 Projects
 - **[Movie Database App](#)** – A responsive React app using the TMDb API *(https://movie-database-app-omega.vercel.app/)*
